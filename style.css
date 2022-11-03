@@ -654,6 +654,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     overflow: hidden;
+    gap: 100px;
 }
 form p {
     width: 174px;
@@ -1564,7 +1565,7 @@ label input {
     }
     .form-block-2 {
         margin-top: 80px;
-        margin-right: 170px;
+      
     }
     .add-sv {
         top: 1929px;
