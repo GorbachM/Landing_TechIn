@@ -742,6 +742,7 @@ label input {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    margin-right: 200px;
 }
 .form-block-1 h2 {
     font-weight: 500;
